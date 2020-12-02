@@ -34,11 +34,17 @@ zstyle ':prezto:load' pmodule \
   'terminal' \
   'editor' \
   'history' \
+  'history-substring-search' \
+  'autosuggestions' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
-  'prompt'
+  'prompt' \
+  'fasd' \
+  'node' \
+  'ssh'
+
 
 #
 # Autosuggestions
